@@ -1,0 +1,3 @@
+All files        |   98.75 |    97.75 |   96.66 |   98.63 |                   
+Test Suites: 2 passed, 2 total
+Tests:       73 passed, 73 total
